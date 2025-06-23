@@ -1,4 +1,4 @@
-# CUDA/CPP Image Grayscale Converter
+# CPU/GPU Image Grayscale Converter
 
 This project demonstrates how to convert a color image to grayscale using both **CPU** and **GPU (CUDA)** implementations. It compares the performance of each method and outputs the resulting grayscale images.
 
